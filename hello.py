@@ -1,6 +1,5 @@
-conda activate main-ds
-pip install streamlit
-
+import streamlit as st 
+ 
 st.write(
     """
     # My first app
